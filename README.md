@@ -1,5 +1,5 @@
 # Learning-the-book-Essential-Math-in-Data-Science
-Learning through the book with coding examples
+Learning through the book by Thomas Nield with coding examples
 
 Divided into four main parts: 
 1. Linear Algebra, Probability Density Functions (PDF), Cumulative Distribution Functions (CDF)
