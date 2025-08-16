@@ -1,4 +1,4 @@
-# Learning-the-book-Essential-Math-in-Data-Science
+# Learning-the-book-Essential-Math-for-Data-Science
 Learning through the book by Thomas Nield with personal coding examples as guided in the book
 
 Divided into four main parts: 
